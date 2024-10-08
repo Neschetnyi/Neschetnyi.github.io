@@ -25,8 +25,12 @@ body {
 }
 
 .upper-menu__button {
-  border: 0;
   background-color: transparent;
+  cursor: pointer;
+}
+
+.upper-menu__button_positioning {
+  border: 0;
 }
 
 .content {
@@ -52,6 +56,7 @@ body {
 
 .side-menu__button {
   background-color: #F8F8F8;
+  cursor: pointer;
 }
 
 .side-menu__button_positioning {
