@@ -76,6 +76,10 @@ body {
   color: #7E7E82;
 }
 
+.button {
+  display: block;
+}
+
 .side-menu__button:hover,.side-menu__button:focus, .side-menu__button:active {
   border: 3px #D9FFF5 solid;
   background-color: white;
@@ -89,7 +93,7 @@ body {
 .expand-button_font {
   font-family: 'TTLakes';
   font-weight: 500;
-  font-size: 1.05em;
+  font-size: 1.0rem;
   color: #1B1C21;
 }
 
@@ -117,7 +121,7 @@ body {
   font-family: 'TTLakes';
   font-weight: 500;
   font-style: normal;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: #1B1C21;
 }
 
