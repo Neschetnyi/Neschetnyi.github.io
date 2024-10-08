@@ -59,12 +59,14 @@
   }
 
   .article__figure_mob {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
   }
 
   .immage_mob {
     border-radius: 0px;
     width: 100%;
+    max-width: 360px;
   }
 }
