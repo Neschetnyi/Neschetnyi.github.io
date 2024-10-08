@@ -78,6 +78,7 @@ body {
 
 .side-menu__button:hover,.side-menu__button:focus, .side-menu__button:active {
   border: 3px #D9FFF5 solid;
+  background-color: white;
 }
 
 .expand-button {
