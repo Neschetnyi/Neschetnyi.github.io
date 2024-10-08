@@ -55,7 +55,7 @@ body {
 }
 
 .side-menu__button {
-  background-color: #F8F8F8;
+  background-color: white;
   cursor: pointer;
 }
 
@@ -82,6 +82,7 @@ body {
 
 .expand-button {
   background-color: #F8F8F8;
+  cursor: pointer;
 }
 
 .expand-button_font {
