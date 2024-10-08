@@ -60,10 +60,11 @@
 
   .article__figure_mob {
     margin-left: 0;
+    margin-right: 0;
   }
 
   .immage_mob {
     border-radius: 0px;
-    height: 176px;
+    width: 100%;
   }
 }
